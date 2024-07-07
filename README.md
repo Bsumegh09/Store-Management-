@@ -1,7 +1,7 @@
 # Electronic Store Management System
 
 This is an Electronic Store Management System built using Spring Boot and MySQL. It allows users to manage products by adding, updating, and deleting them.
-## I have also provided the products database table for reference, so you don't need to create the table separately.
+## I have also provided the products database table for reference, so you don't need to create the table separately, Spring will create table.
 
 ## Features
 
